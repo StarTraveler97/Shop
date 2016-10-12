@@ -1,0 +1,12 @@
+thead, tbody{
+    border: 2px solid black;
+}
+th, td{
+    padding: 3px;
+    border-right: 1px solid grey;
+    padding-right: 3px;
+}
+
+tr{
+    border-bottom: 1px solid grey ;
+}

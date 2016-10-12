@@ -1,0 +1,39 @@
+
+table {
+    display: block;
+    padding: 5px;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 600px;
+    border: 1px grey solid;
+    border-radius: 5px;
+    background-color: #efefef;
+    font-family: "Times New Roman";
+    font-style: italic;
+}
+
+table .title-post{
+    border-bottom: 1px grey solid ;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+table .date-post{
+    border-top: 1px grey solid ;
+}
+
+table .date-post a{
+    float: right;
+    margin-right: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+table .description-post
+{
+    width: 200px;
+}
+table .content-post
+{
+  width: 388px;
+}
